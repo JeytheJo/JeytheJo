@@ -18,7 +18,7 @@ class Joao:
     name       = "João"
     alias      = ["JeytheJo", "Jeduardo"]
     location   = "Piauí, Brazil 🇧🇷"
-    education  = "Software Engineering @ UNIP"
+    education  = "Software Engineering @ UNIFSA"
     languages  = ["Portuguese (native)", "English (advanced)"]
 
     interests  = ["Cybersecurity", "Pentesting", "OSINT", "Backend Dev"]
