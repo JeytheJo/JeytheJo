@@ -60,6 +60,8 @@ class Joao:
 
 <div align="center">
 
+### 🌐 [Acesse meu Web Portfólio](https://jeythejo.github.io/portfolio/)
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=JeytheJo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeytheJo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
