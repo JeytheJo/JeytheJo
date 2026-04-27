@@ -89,7 +89,7 @@ class Joao:
 
 | Project | Stack | Status |
 |---|---|---|
-| [SistemaCRUD_Barbearia](https://github.com/JeytheJo/SistemaCRUD_Barbearia) | Flask · PostgreSQL · Tailwind | 🔨 In progress |
+| [SistemaCRUD_Barbearia](https://github.com/JeytheJo/SistemaCRUD_Barbearia) | Flask · PostgreSQL · Tailwind | 🧑‍💻 Completed|
 | [Tô Lembrado](https://github.com/JeytheJo/ToLembrado) | React Native · Expo · SQLite | ✅ Alpha released |
 
 ---
